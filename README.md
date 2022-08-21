@@ -22,13 +22,17 @@ No dude en ponerse en contacto conmigo por [correo eletrónico](rodrigo.lins.jr@
 ---
 <p align="center">
     <img src="assets\me.jpg" width="300">
-    Resumo em [Português](Português.md) | Resumen en [español](Español.md)
 </p>
+
 
 <p align="center">
-
-Resumo em [Português](Português.md) | Resumen en [español](Español.md)
+<a href="https://github.com/rrodrigojrr/rodrigo-lins/blob/main/Portugu%C3%AAs.md">
+Resumo em Português
+</a>|
+<a href="https://github.com/rrodrigojrr/rodrigo-lins/blob/main/Espa%C3%B1ol.md">
+Resumen en español
 </p>
+
 
 
 
