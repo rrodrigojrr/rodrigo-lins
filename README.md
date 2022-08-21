@@ -22,6 +22,7 @@ No dude en ponerse en contacto conmigo por [correo eletrónico](rodrigo.lins.jr@
 ---
 <p align="center">
     <img src="assets\me.jpg" width="300">
+    Resumo em [Português](Português.md) | Resumen en [español](Español.md)
 </p>
 
 <p align="center">
